@@ -1,3 +1,1 @@
-# javascript-realizations
-
-My js realizations list
+# My js realizations list
